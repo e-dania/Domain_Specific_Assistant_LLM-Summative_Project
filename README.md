@@ -1,4 +1,4 @@
-# Science Tutor Assistant (TinyLlama + LoRA Fine-Tuning)
+# ML StudyBuddy, A Science Tutor Assistant (TinyLlama + LoRA Fine-Tuning)
 
 ## Project Overview
 
@@ -243,6 +243,13 @@ These results indicate that the fine-tuned model is able to generate scientifica
 Given the limited training time and parameter-efficient fine-tuning approach, these results demonstrate successful domain adaptation.
 
 ---
+
+## Screenshots
+![Question Format](Screenshots/Question_Format.png)
+![Different Model Responses](Screenshots/Different_model_responses.png)
+
+---
+
 ## Demo Video
 
 [Demo Video](https://drive.google.com/file/d/1U5Ezzn_b1aSHiN-Z3ueuwyz__7S2nAut/view?usp=sharing)
